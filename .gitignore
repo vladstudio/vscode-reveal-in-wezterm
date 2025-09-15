@@ -1,0 +1,29 @@
+# Node.js
+node_modules/
+npm-debug.log*
+
+# TypeScript
+out/
+*.tsbuildinfo
+
+# VS Code extension
+*.vsix
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/settings.json
+.vscode/launch.json
+.vscode/tasks.json
+.vscode/.ropeproject
+
+# Logs
+logs/
+*.log
+
+# Environment
+.env
+.env.local
+.env.*.local
