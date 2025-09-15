@@ -3,12 +3,35 @@
   "displayName": "Reveal in WezTerm",
   "description": "Reveal files and project in WezTerm terminal",
   "version": "0.0.1",
+  "publisher": "vladstudio",
+  "author": {
+    "name": "Vlad Gerasimov",
+    "url": "https://github.com/vladstudio"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vladstudio/vscode-reveal-in-wezterm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vladstudio/vscode-reveal-in-wezterm/issues"
+  },
+  "homepage": "https://github.com/vladstudio/vscode-reveal-in-wezterm#readme",
   "engines": {
     "vscode": "^1.74.0"
   },
   "categories": [
     "Other"
   ],
+  "keywords": [
+    "wezterm",
+    "terminal",
+    "reveal",
+    "file",
+    "folder",
+    "project"
+  ],
+  "icon": "icon.png",
   "activationEvents": [],
   "main": "./out/extension.js",
   "contributes": {
